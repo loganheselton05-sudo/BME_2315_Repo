@@ -1,3 +1,3 @@
 # BME_2315_Repo
 ## Description
-* 
+* This repository provides an extensive collection of data analysis and computational modeling notebooks focused on biomedical and public health applications, including Alzheimer’s disease biomarker analysis, pulmonary fibrosis image quantification, lung squamous cell carcinoma gene-expression analysis, and Middle East Respiratory Syndrome (MERS) outbreak modeling. The notebooks integrate statistical analysis, image processing, and compartmental disease modeling to explore biological mechanisms and disease dynamics. The goal of these projects is to apply computational modeling, data analysis, and quantitative reasoning to real-world biomedical and public health problems to extract meaningful biological insights, evaluate disease mechanisms, and assess system-level behavior across multiple scales, from molecular biomarkers and gene expression to tissue-level imaging and population-level disease dynamics.
